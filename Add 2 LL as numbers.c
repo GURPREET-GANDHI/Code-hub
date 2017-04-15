@@ -10,7 +10,7 @@
 					//------create a data structure
 					
 				#include<stdio.h>
-#include<stdlib.h>
+				#include<stdlib.h>
  
 /* Linked list node */
 struct node
